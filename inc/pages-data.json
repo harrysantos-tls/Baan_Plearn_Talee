@@ -1,0 +1,457 @@
+[
+  {
+    "slug": "pool-area",
+    "title": "Pool Area",
+    "template": "templates/template-room.php",
+    "group": "spaces",
+    "label": "In this space",
+    "intro": "A 20-meter infinity pool opens toward the ocean, with sunbeds, lounge seating, and a bar area.",
+    "features": [
+      "Infinity swimming pool, 20m x 5m x 1.75m",
+      "Ocean view",
+      "6 reclining sunbeds",
+      "2 round sunbeds with matching side table",
+      "3 side tables",
+      "Sofa seating for 4",
+      "Outdoor shower",
+      "Inflatable pool toys",
+      "2 personal flotation devices",
+      "Bar area with 3 stools",
+      "Minibar",
+      "Gas BBQ grill"
+    ]
+  },
+  {
+    "slug": "living-area",
+    "title": "Living Area",
+    "template": "templates/template-room.php",
+    "group": "spaces",
+    "label": "In this space",
+    "intro": "The ocean-view living area brings together generous seating, a billiards table, and a terrace in one relaxed social space.",
+    "features": [
+      "Ocean view",
+      "Sofa and daybed seating for up to 8 guests",
+      "Billiards table",
+      "85-inch flatscreen TV",
+      "Coffee table",
+      "Coffee table books",
+      "Terrace"
+    ]
+  },
+  {
+    "slug": "kitchen-dining-area",
+    "title": "Kitchen & Dining Area",
+    "template": "templates/template-room.php",
+    "group": "spaces",
+    "label": "In this space",
+    "intro": "The open-air kitchen and dining area is set up for shared meals, with seating for up to 12 guests.",
+    "features": [
+      "Dining table with seating for up to 12 guests",
+      "Open-air design",
+      "De'Longhi espresso machine",
+      "Microwave oven",
+      "Refrigerator and freezer",
+      "Wine fridge",
+      "Minibar"
+    ]
+  },
+  {
+    "slug": "media-game-room",
+    "title": "Media & Game Room",
+    "template": "templates/template-room.php",
+    "group": "spaces",
+    "label": "In this space",
+    "intro": "With pool and ocean views, the media and game room brings together movies, gaming, karaoke, and casual lounging in one space.",
+    "features": [
+      "Pool and ocean view",
+      "75-inch flatscreen TV",
+      "Spotify",
+      "Netflix",
+      "Monomax",
+      "TrueVisions Now",
+      "PlayStation 5 with games",
+      "Foosball table",
+      "Karaoke machine",
+      "Dartboard",
+      "JBL sound system",
+      "Sofa seating for 4",
+      "Daybed",
+      "Single-seater lounge bed",
+      "Coffee tables"
+    ]
+  },
+  {
+    "slug": "fitness-room",
+    "title": "Fitness Room",
+    "template": "templates/template-room.php",
+    "group": "spaces",
+    "label": "In this space",
+    "intro": "A dedicated fitness room equipped for cardio, strength training, and stretching, with a wide range of workout equipment.",
+    "features": [
+      "Treadmill",
+      "Centra Punching Box Music Machine",
+      "Matrix dumbbell rack",
+      "Ziva dumbbells from 5 to 25 kg",
+      "Incline bench",
+      "13 yoga mats",
+      "43-inch flatscreen TV",
+      "Sound system"
+    ]
+  },
+  {
+    "slug": "outdoor-sala",
+    "title": "Outdoor Sala",
+    "template": "templates/template-room.php",
+    "group": "spaces",
+    "label": "In this space",
+    "intro": "The outdoor sala looks across the ocean and pool, with generous seating and a lawn garden.",
+    "features": [
+      "Ocean and pool view",
+      "Sofa seating for up to 12 guests",
+      "Long coffee table",
+      "Lawn garden"
+    ]
+  },
+  {
+    "slug": "outdoor-jacuzzi",
+    "title": "Heated Outdoor Jacuzzi",
+    "template": "templates/template-room.php",
+    "label": "Outdoor Jacuzzi",
+    "group": "villa-areas",
+    "intro": "The heated outdoor Jacuzzi is positioned to take in sunset, ocean, and pool views.",
+    "features": [
+      "Heated Jacuzzi",
+      "3m x 3m x 0.75m",
+      "Sunset view",
+      "Ocean view",
+      "Pool view"
+    ],
+    "hero_image": "https://baanplearntalee.com/wp-content/uploads/2023/07/Villa-Plearn-Talee-Phuket-Pool-Area-5.1.jpg",
+    "images": [
+      "https://baanplearntalee.com/wp-content/uploads/2023/07/Villa-Plearn-Talee-Phuket-Pool-Area-5.1.jpg"
+    ]
+  },
+  {
+    "slug": "master-bedroom-1",
+    "title": "Master Bedroom",
+    "template": "templates/template-room.php",
+    "group": "bedrooms",
+    "label": "King bed, ocean view",
+    "intro": "Set on the upper level, the master bedroom combines ocean views with a wraparound terrace and private sundeck.",
+    "features": [
+      "King-size bed",
+      "Ocean view",
+      "Wraparound terrace",
+      "Sofa seating for 5 with coffee tables",
+      "Sundeck with reclining sunbed and 2 chairs",
+      "Work desk",
+      "Makeup table",
+      "Minibar",
+      "Kettle",
+      "Walk-in closet",
+      "Sonos sound system",
+      "Ensuite bathroom",
+      "Whirlpool bathtub",
+      "Shower and rain shower",
+      "Double vanity",
+      "Toilet with bidet"
+    ]
+  },
+  {
+    "slug": "guest-bedroom-1",
+    "title": "Guest Bedroom 1",
+    "template": "templates/template-room.php",
+    "group": "bedrooms",
+    "label": "King bed, ocean and pool view",
+    "intro": "Located on the mid level, this king bedroom opens to ocean and pool views with a wraparound balcony and walkway.",
+    "features": [
+      "King-size bed",
+      "Ocean and pool view",
+      "Wraparound balcony and walkway",
+      "Lounge chair",
+      "Work desk",
+      "Walk-in closet",
+      "Sonos sound system",
+      "Kettle",
+      "Ensuite bathroom",
+      "Bathtub",
+      "Rain shower",
+      "His-and-hers showers",
+      "Double vanity",
+      "Toilet with bidet"
+    ]
+  },
+  {
+    "slug": "guest-bedroom-2",
+    "title": "Guest Bedroom 2",
+    "template": "templates/template-room.php",
+    "group": "bedrooms",
+    "label": "King bed, ocean view",
+    "intro": "Also on the mid level, this king bedroom looks toward the ocean and connects directly to the terrace and walkway.",
+    "features": [
+      "King-size bed",
+      "Ocean view",
+      "Terrace and walkway",
+      "Lounge chair",
+      "Work desk",
+      "Walk-in closet",
+      "Sonos sound system",
+      "Kettle",
+      "Ensuite bathroom",
+      "Bathtub",
+      "Shower and rain shower",
+      "Double vanity",
+      "Toilet with bidet"
+    ]
+  },
+  {
+    "slug": "guest-bedroom-3",
+    "title": "Guest Bedroom 3",
+    "template": "templates/template-room.php",
+    "group": "bedrooms",
+    "label": "King bed, direct pool access",
+    "intro": "Set on the lower level, this king bedroom enjoys pool and ocean views with direct access to the pool area.",
+    "features": [
+      "King-size bed",
+      "Pool and ocean view",
+      "Balcony",
+      "Direct access to the pool area",
+      "Lounge chairs",
+      "Work desk",
+      "Wardrobe",
+      "Sonos sound system",
+      "Kettle",
+      "Ensuite bathroom",
+      "Bathtub",
+      "Shower and rain shower",
+      "Double vanity",
+      "Toilet with bidet"
+    ]
+  },
+  {
+    "slug": "guest-bedroom-4",
+    "title": "Guest Bedroom 4",
+    "template": "templates/template-room.php",
+    "group": "bedrooms",
+    "label": "King bed, connects to Bedroom 5",
+    "intro": "On the lower level, this king bedroom overlooks the pool and ocean, with direct pool access and a connecting door to Guest Bedroom 5.",
+    "features": [
+      "King-size bed",
+      "Pool and ocean view",
+      "Direct access to the pool area",
+      "Connects to Guest Bedroom 5",
+      "Work desk",
+      "Makeup table",
+      "Wardrobe",
+      "Sonos sound system",
+      "Kettle",
+      "Ensuite bathroom",
+      "Bathtub",
+      "Shower and rain shower",
+      "Double vanity",
+      "Toilet with bidet"
+    ]
+  },
+  {
+    "slug": "guest-bedroom-5",
+    "title": "Guest Bedroom 5",
+    "template": "templates/template-room.php",
+    "group": "bedrooms",
+    "label": "Two single beds, connects to Bedroom 4",
+    "intro": "Also on the lower level, this twin bedroom has pool and ocean views, direct pool access, and connects to Guest Bedroom 4.",
+    "features": [
+      "2 single beds",
+      "Pool and ocean view",
+      "Direct access to the pool area",
+      "Connects to Guest Bedroom 4",
+      "Work desk",
+      "Makeup table",
+      "Wardrobe",
+      "Sonos sound system",
+      "Kettle",
+      "Ensuite bathroom",
+      "Bathtub",
+      "Shower and rain shower",
+      "Double vanity",
+      "Toilet with bidet"
+    ]
+  },
+  {
+    "slug": "services-features-overview",
+    "title": "Services & Features",
+    "template": "templates/template-services.php",
+    "features": [
+      "Cliffside setting with ocean view",
+      "6 bedrooms, each with an ensuite bathroom",
+      "1 master bedroom with king bed",
+      "5 guest bedrooms, 4 with king beds and 1 with two single beds",
+      "Infinity pool, 19 m by 6.17 m",
+      "Outdoor jacuzzi, 4 m by 6.9 m",
+      "Sun deck with bar area and BBQ facilities",
+      "Living area with billiards table and 85 inch flatscreen TV",
+      "Dining area with seating for 10",
+      "Patio area",
+      "Outdoor sala with ocean and pool view",
+      "Media and game room with foosball table and 75 inch flatscreen TV",
+      "Fitness room with 43 inch flatscreen TV",
+      "2 wine fridges",
+      "Karaoke system",
+      "Gaming console",
+      "Books",
+      "Sonos sound system in every room",
+      "High speed wireless throughout the villa",
+      "Driveway entrance and garage",
+      "International plug sockets",
+      "First aid kit"
+    ],
+    "services": [
+      "Four staff members including a private chef, food not included",
+      "Complimentary continental or Asian breakfast between 7am and 11am",
+      "Daily housekeeping",
+      "Guest Experience service",
+      "Turndown service",
+      "Roundtrip airport transfer",
+      "Car rental at an extra charge",
+      "Van with driver on request, at an extra charge",
+      "24 hour security",
+      "In-house massage at an extra charge",
+      "Laundry service at an extra charge",
+      "Wine menu with a selection of champagne, red, white and rosé"
+    ]
+  },
+  {
+    "slug": "floor-plan",
+    "title": "Floor Plan",
+    "template": "templates/template-floorplan.php",
+    "intro": "The villa is arranged over connected levels, with the living and dining areas opening onto the pool deck and the bedrooms set along the terrace."
+  },
+  {
+    "slug": "location",
+    "title": "Location",
+    "template": "templates/template-location.php",
+    "paras": [
+      "Plearn Talee enjoys an elevated location on Phuket’s scenic west coast, between the relaxed atmosphere of Kamala and the vibrant energy of Patong. Surrounded by tropical greenery and overlooking the Andaman Sea, the villa offers a peaceful setting while keeping the island’s popular coastal destinations within easy reach.",
+      "Kamala Beach is known for its sandy shores, calm atmosphere, local restaurants, and beachfront experiences, while Patong offers a livelier scene with an extensive choice of dining, shopping, entertainment, and nightlife. The location also provides convenient access to other beaches and attractions along Phuket’s west coast, making Plearn Talee well placed for guests who wish to experience both the quieter and more lively sides of the island."
+    ],
+    "rows": [
+      {
+        "place": "Phuket International Airport",
+        "note": "Nearest airport",
+        "km": "31.4 km"
+      },
+      {
+        "place": "Royal Phuket Marina",
+        "note": "Nearest marina and pier for boat tours",
+        "km": "24.8 km"
+      },
+      {
+        "place": "Yae Beach",
+        "note": "Nearest beach",
+        "km": "2 km"
+      },
+      {
+        "place": "Laguna Golf",
+        "note": "Nearest golf course",
+        "km": "15.6 km"
+      },
+      {
+        "place": "Kamala",
+        "note": "Nearest restaurant",
+        "km": "2.2 km"
+      },
+      {
+        "place": "Kamala",
+        "note": "Nearest bar",
+        "km": "2.4 km"
+      },
+      {
+        "place": "Kamala",
+        "note": "Nearest gym",
+        "km": "3.8 km"
+      },
+      {
+        "place": "Patong Beach",
+        "note": "Nearest tennis court",
+        "km": "4.5 km"
+      },
+      {
+        "place": "Villa Market",
+        "note": "Nearest supermarket",
+        "km": "4 km"
+      },
+      {
+        "place": "Jungceylon",
+        "note": "Nearest international shopping centre",
+        "km": "7.8 km"
+      }
+    ]
+  },
+  {
+    "slug": "reviews",
+    "title": "Reviews",
+    "template": "templates/template-reviews.php",
+    "reviews": [
+      {
+        "quote": "Amazing stay! The villa has everything we needed for a relaxing week with friends, from the big pool and jacuzzi to the entertainment rooms. We especially liked the sunset views from the outdoor areas.",
+        "name": "Anthony P."
+      },
+      {
+        "quote": "We stayed here with our family and had such a great time. The villa is huge, the rooms are comfortable, and the ocean view from the pool is amazing. We also really enjoyed having breakfast outside and spending lazy afternoons by the pool. The staff were wonderful and made everything very easy for us.",
+        "name": "James T."
+      },
+      {
+        "quote": "Beautiful villa with plenty of space for everyone. We loved the jacuzzi and the outdoor sala, especially in the evening when the weather was cooler. The kids were always in the game room, while the adults enjoyed the pool and drinks outside. The private chef was excellent too, and we had some of our best meals in Phuket here. Would definitely stay again.",
+        "name": "Caroline M."
+      },
+      {
+        "quote": "The house is very well designed for a big group. We came with friends and there was enough space that nobody felt crowded, even when everyone was in the villa. Billiards, foosball and karaoke kept us entertained at night, and the pool area was our favorite during the day. Staff were friendly and helpful throughout our stay.",
+        "name": "Robert K."
+      },
+      {
+        "quote": "We really like Plearn Talee, very peaceful place and the view is beautiful. The room was clean and comfortable and the swimming pool is very nice. Staff help us with everything and the food was good. We have very nice holiday here.",
+        "name": "Sophie L."
+      },
+      {
+        "quote": "Our family stay was wonderful. The villa is spacious and the staff take very good care of us. We spend most of the day swimming and eating outside. The chef make very delicious Thai food, everyone was happy!",
+        "name": "Maria G."
+      }
+    ]
+  },
+  {
+    "slug": "gallery",
+    "title": "Gallery",
+    "template": "templates/template-gallery.php"
+  },
+  {
+    "slug": "video",
+    "title": "Video",
+    "template": "templates/template-video.php",
+    "group": "villa",
+    "menu": "the-villa"
+  },
+  {
+    "slug": "booking-summary",
+    "title": "Booking Summary",
+    "template": "templates/template-booking.php"
+  },
+  {
+    "slug": "contact-us",
+    "title": "Contact us",
+    "template": "templates/template-contact-us.php"
+  },
+  {
+    "slug": "terms-and-conditions",
+    "title": "Terms and Conditions",
+    "template": "templates/template-terms.php"
+  },
+  {
+    "slug": "home-guesty",
+    "title": "Home (Guesty test)",
+    "template": "templates/template-home-guesty.php"
+  },
+  {
+    "slug": "checkout",
+    "title": "Checkout",
+    "template": "guesty-checkout.php"
+  }
+]

@@ -1,0 +1,410 @@
+{
+  "title": "Booking Agreement Terms & Conditions",
+  "property": "BAAN PLEARN TALEE (“the Property”)",
+  "revised": "Revised September 2026",
+  "preamble": "We, TLS Travel Group Limited (\"TLS\" or \"we\" or \"our\") act as representative of the Owner of the Property (\"the Owner\") and this Terms and Conditions shall form the terms and conditions of the booking agreement of the Property (\"Booking Agreement\"). As the person making the booking, you (\"the Lessee\" or \"you\" or \"yourself\") are responsible for the actions and behaviour of everyone (including yourself) in the group (\"Group\" or \"Guest\"). You are also responsible for obtaining their permission before providing us with their personal data.",
+  "clauses": [
+    {
+      "n": 1,
+      "title": "Arrival and Departure Times",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Standard check-in time is 3:00 p.m. and check-out time is 12:00 noon unless other arrangements have been made and agreed upon by the Owner."
+        },
+        {
+          "t": "p",
+          "x": "Early arrivals or late departures are subject to availability and extra fees."
+        },
+        {
+          "t": "p",
+          "x": "Check-in: From 9:00 a.m. onwards — 50% of the regular daily rate. Before 9:00 a.m. — 100% of the regular daily rate. These additional fees include the cost of our chef to prepare lunch."
+        },
+        {
+          "t": "p",
+          "x": "Check-out: Until 6:00 p.m. — 50% of the regular daily rate. After 6:00 p.m. — 100% of the regular daily rate."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Registered Guests",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Only the specified number of guests listed in the Booking Agreement may reside on the Property. If additional guests are found staying, the Owner or Representative may ask them to vacate or charge $300 USD per night per additional guest. No camping is permitted in the grounds or gardens."
+        },
+        {
+          "t": "p",
+          "x": "A maximum of two children under the age of 2 may stay free of charge when using existing bedding. Additional children may be subject to extra charges and prior approval by the Owner."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Minimum Stay Requirements",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "There is a minimum 3-night stay requirement for most of the year. For Peak Seasons (Christmas and New Year), the minimum stay is 14 nights. For Chinese New Year, the minimum stay is 5 nights. For Easter, the minimum stay is 4 nights."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Weddings and Events",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "For weddings and events, an applicable event fee is required. An 'Event' is defined as any gathering, celebration, function, party, wedding, or similar occasion that exceeds the maximum occupancy permitted or requires prior approval from the Property."
+        },
+        {
+          "t": "p",
+          "x": "All weddings and events must be organised and managed by a professional event planner. Property staff are not permitted to provide event planning or coordination services."
+        },
+        {
+          "t": "p",
+          "x": "The identity of the proposed event planner must be disclosed to and approved by the Owner prior to confirmation. A detailed event plan must be submitted to the Guest Experience Specialist no later than one month prior to the event date. Failure to obtain the required approvals may result in the event being cancelled."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Payment Requirements",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Booking less than six months prior to arrival: a non-refundable deposit of at least 50% of the total amount is due within 5 calendar days upon booking."
+        },
+        {
+          "t": "p",
+          "x": "Booking more than six months before arrival: a non-refundable deposit of at least 25% is due within 5 calendar days upon booking, and a further 25% is due 6 months prior to arrival."
+        },
+        {
+          "t": "p",
+          "x": "Full payment is due 45 days prior to the arrival date."
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "title": "Security Deposit",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A security deposit is required by the Owner prior to arrival. It will be authorised on a credit card 48 hours before arrival or paid by bank transfer 10 days before arrival, and released within 48 hours after check-out."
+        },
+        {
+          "t": "p",
+          "x": "Any damages or breakages incurred during the stay will be deducted from the security deposit, excluding normal wear and tear. If damages exceed the deposit, the Lessee is liable for the outstanding amount. The deposit also covers any unpaid costs such as extra guests, event fees, or food and beverage charges."
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "title": "Cancellation Policies",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A) Cancellation 45 days or more prior to arrival: all payments are forfeited but credited for 12 months from the date of cancellation confirmation. The credit may be used by the Lessee or anyone on their behalf for the same Property, subject to availability."
+        },
+        {
+          "t": "p",
+          "x": "B) Cancellation within 45 days of arrival: all booking payments are forfeited. A refund applies only if the Owner secures another reservation for the cancelled period."
+        },
+        {
+          "t": "p",
+          "x": "C) Christmas and New Year period: all payments are forfeited upon any cancellation. A refund applies only if the Owner secures another reservation for the period."
+        },
+        {
+          "t": "p",
+          "x": "D) Failure to pay any required deposits or balance by the applicable due date: all payments are forfeited."
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "title": "Airport Closure / Conflict Policy",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This policy applies if the primary international airport in the Lessee's country of residence is officially closed due to war or armed conflict on the scheduled day of departure, directly preventing the Lessee from departing. The Lessee must notify the Owner immediately."
+        },
+        {
+          "t": "p",
+          "x": "All payments received will be converted to a credit valid for a future booking within 6 months of the original scheduled arrival. The credit may be used by the Lessee or anyone on their behalf, is applicable solely to the Property originally booked, and any unused credit is non-refundable."
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "title": "COVID-19 Cancellation Policy",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This policy applies if the Lessee cancels due to government-enforced travel restrictions or mandatory quarantines that occur between 45 and 7 days before arrival and directly affect at least one-third of the Group. The Lessee must confirm the cancellation no later than 7 days prior to arrival."
+        },
+        {
+          "t": "p",
+          "x": "All payments received will be converted to a credit valid for a future booking within 12 months of the original check-out date. The credit may be used by the Lessee or anyone on their behalf, is applicable solely to the Property originally booked, and any unused credit is non-refundable. We strongly encourage all guests to obtain travel insurance."
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "title": "Amendments",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Any amendments to reservation dates after booking confirmation are considered a breach and forfeiture of the Booking Agreement. All payments are subject to the cancellation conditions in Clause 7."
+        },
+        {
+          "t": "p",
+          "x": "If the Owner is unable to accommodate the Lessee for any reason, the Owner reserves the right to transfer the Lessee to an alternative property of similar type and value. If no suitable alternative is available, either party may cancel the booking and the Owner will refund the Lessee for unconsumed nights, without further compensation."
+        }
+      ]
+    },
+    {
+      "n": 11,
+      "title": "Lessee Insurance",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "All guests are required to have both liability and comprehensive travel insurance covering cancellation, loss and damage to baggage, and flight delays. Guests should also carry health coverage including evacuation and repatriation. Neither TLS nor the Owner shall be liable for any claims, including accidents related to the use of the Property, facilities, or locally procured third-party services."
+        }
+      ]
+    },
+    {
+      "n": 12,
+      "title": "Force Majeure",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "In the event of any act of God, strike, war, warlike operation, rebellion, riot, civil war, lockout, fire, accident, act of terrorism, or any circumstances beyond the reasonable control of the Owner, TLS and the Owner shall be relieved of their obligations during the period that force majeure continues and shall not be liable for any delay, failure, loss, or damage resulting from such event."
+        }
+      ]
+    },
+    {
+      "n": 13,
+      "title": "Complaints",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Any problems or complaints during the stay should first be discussed with the local staff. If unresolved, please consult the Representative. TLS and the Owner cannot be held liable for interruptions to water supply, electricity, internet, cable TV, or breakdowns of lifts or pool filtration systems. Complaints must be submitted in writing within 24 hours of the issue occurring. Complaints made after check-out will not be considered."
+        }
+      ]
+    },
+    {
+      "n": 14,
+      "title": "Conduct and Behaviour",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The Lessee is responsible for the behaviour of all guests. If any guest behaves inappropriately, the Owner or Representative may ask the offending party to leave without refund. The Owner and Representative reserve the right to enter the Property at a reasonable time to complete repairs, perform maintenance, or show the Property to prospective lessees."
+        }
+      ]
+    },
+    {
+      "n": 15,
+      "title": "Social Corporate Responsibility",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Unlawful possession, use, or consumption of any illegal substances is prohibited. Any violations will be reported to the police immediately and no refunds will be made."
+        },
+        {
+          "t": "p",
+          "x": "For the safety of guests and staff, no male or female joiners may be brought back to the Property."
+        }
+      ]
+    },
+    {
+      "n": 16,
+      "title": "Property Staff",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Staff service is included from 7:00 a.m. to 10:00 p.m. With prior notice, staff may also be available for late-night events or early breakfast, subject to additional charges. A discretionary tip may be given upon departure."
+        },
+        {
+          "t": "p",
+          "x": "Additional services such as babysitting and drivers can be arranged in advance and are subject to availability and additional charge. Staff may not be asked to supervise minor children. Pool maintenance workers and gardeners must be allowed access to the grounds to complete their work."
+        },
+        {
+          "t": "p",
+          "x": "Requests for a change or addition of staff are subject to an extra charge of USD 75 per staff member per night."
+        }
+      ]
+    },
+    {
+      "n": 17,
+      "title": "No Pets",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Guests are not permitted to bring pets onto the Property or surrounding properties."
+        }
+      ]
+    },
+    {
+      "n": 18,
+      "title": "No Smoking",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Smoking is not permitted inside the Property. Smoking is only permitted outside on the grounds where an ashtray can be provided. Shishas and hookahs are prohibited in accordance with Thai Government laws."
+        }
+      ]
+    },
+    {
+      "n": 19,
+      "title": "Noise",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Noise must be kept to a reasonable minimum, especially between 11:00 p.m. and 8:00 a.m."
+        }
+      ]
+    },
+    {
+      "n": 20,
+      "title": "Food and Beverages",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "All bookings include chef service for breakfast, lunch, dinner, and snacks. All food and beverages purchased on behalf of guests are charged at cost plus a surcharge covering food preparation, transportation, shopping time, cooking, and use of the kitchen."
+        }
+      ]
+    },
+    {
+      "n": 21,
+      "title": "Linens and Towels",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Linens and towels are provided by the Property. In line with our eco-friendly policy, linens are changed every three days or more frequently if necessary. Towels are replaced after placement in the towel basket. Additional charges may apply for more frequent changes. Laundry of personal clothing by a third party can be arranged at the Lessee's cost. The Owner shall not be held liable for any loss or damage by a third party."
+        }
+      ]
+    },
+    {
+      "n": 22,
+      "title": "Transfers",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Transfers may be arranged through our Guest Experience Specialist."
+        }
+      ]
+    },
+    {
+      "n": 23,
+      "title": "Utilities",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Utility costs are included in the rental fee. Windows must be closed while air-conditioning is in use. In line with our eco-friendly policy, air-conditioning must be switched off when leaving the Property for extended periods. Non-compliance may result in additional electricity charges. We recommend setting the air-conditioning between 22°C and 23°C."
+        }
+      ]
+    },
+    {
+      "n": 24,
+      "title": "Furniture",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Interior furnishings must remain inside the Property. Only designated outdoor furniture may be used on the exterior."
+        }
+      ]
+    },
+    {
+      "n": 25,
+      "title": "Bedroom Allocation",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The rental of the Property does not automatically entitle the Lessee to access all bedrooms. Access is limited to the number of bedrooms confirmed in the Booking Agreement. Bedrooms not included in the booking may remain locked and unavailable. Requests for additional bedrooms after confirmation may incur additional charges."
+        }
+      ]
+    },
+    {
+      "n": 26,
+      "title": "Owner Insurance",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The Lessee must not do, or allow anything to be done, that may void the Property's insurance against fire or cause insurance premiums to be raised."
+        }
+      ]
+    },
+    {
+      "n": 27,
+      "title": "Due Care and Supervision / Indemnity",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The Lessee is responsible for the safety and well-being of all guests and invitees while staying at the Property. Guests must take due care, including supervision of children near the pool, gardens, and entrance. All children must be under the direct supervision of an adult at all times."
+        },
+        {
+          "t": "p",
+          "x": "No guest may enter the Property while wet from swimming, as floors may become slippery. The Lessee indemnifies and holds the Owner harmless from any liability resulting from accidents, injury, or loss of life."
+        }
+      ]
+    },
+    {
+      "n": 28,
+      "title": "Valuables",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Valuables such as passports, phones, cameras, travellers' cheques, cash, and jewellery should be stored in the safety deposit box provided. Neither the Owner nor the staff can be held responsible for any valuables left behind, lost, or damaged."
+        }
+      ]
+    },
+    {
+      "n": 29,
+      "title": "Artwork",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The Property contains precious contemporary and antique artworks unique to the Property. Guests must take care to avoid causing any damage. The Lessee is liable for any artwork or antiques damaged during the stay. Costs will be set off against the security deposit. If damages exceed the deposit, the Lessee is liable for the remaining amount."
+        }
+      ]
+    },
+    {
+      "n": 30,
+      "title": "Limitation of Liability",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Neither TLS nor the Owner, their agents, contractors, or employees shall be liable for any loss, damage, injury, or death caused to any person or property brought onto the Property by the Lessee, guests, or invitees, howsoever such loss or damage may occur. The Lessee indemnifies and holds harmless TLS, the Owner, and any suppliers of facilities or services from any claims relating to this Agreement."
+        },
+        {
+          "t": "p",
+          "x": "In the event that TLS is held liable for any damages related to the booking, your sole and exclusive remedy will be limited to the rental fee paid by you."
+        }
+      ]
+    },
+    {
+      "n": 31,
+      "title": "Miscellaneous",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "31.1 The Lessee may not assign the booking to any third party without prior written approval."
+        },
+        {
+          "t": "p",
+          "x": "31.2 This Booking Agreement constitutes the whole agreement between the parties. No warranties or representations not stated herein shall be binding on the parties."
+        },
+        {
+          "t": "p",
+          "x": "31.3 Any indulgence shown to the guests shall not constitute a waiver or novation of the rights of TLS or the Owner."
+        },
+        {
+          "t": "p",
+          "x": "31.4 This agreement is governed by Thai law, and both parties submit to the exclusive jurisdiction of the Thai courts."
+        }
+      ]
+    }
+  ]
+}

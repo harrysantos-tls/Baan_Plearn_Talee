@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /booking-summary/
+Disallow: /home-guesty/
+Disallow: /checkout/
+Disallow: /?s=
+
+Sitemap: https://baanplearntalee.com/sitemap_index.xml
