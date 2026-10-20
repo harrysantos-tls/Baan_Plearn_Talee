@@ -29,7 +29,17 @@ get_template_part( 'template-parts/pagehero', null, array(
 		<?php endif; ?>
 		<div class="rgrid">
 			<?php foreach ( $reviews as $r ) : ?>
-				<figure class="rbox"><div class="rbox__stars" aria-label="5 out of 5 stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div><blockquote><?php echo esc_html( $r['quote'] ); ?></blockquote><figcaption><?php echo esc_html( $r['name'] ); ?></figcaption></figure>
+				<figure class="rbox">
+					<?php if ( ! empty( $r['sample'] ) ) : ?>
+						<p><strong><?php esc_html_e( 'Fictional example — not a guest review', 'bpt' ); ?></strong></p>
+					<?php else : ?>
+						<div class="rbox__stars" aria-label="5 out of 5 stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+					<?php endif; ?>
+					<blockquote><?php echo esc_html( $r['quote'] ); ?></blockquote>
+					<?php if ( empty( $r['sample'] ) ) : ?>
+						<figcaption><?php echo esc_html( $r['name'] ); ?></figcaption>
+					<?php endif; ?>
+				</figure>
 			<?php endforeach; ?>
 		</div>
 		<div class="google-line">
